@@ -24,11 +24,9 @@ This Back Office system serves as the administrative control center, providing c
 **Repository:** [https://github.com/tonyvo1989/gowmrt-app-server.git](https://github.com/tonyvo1989/gowmrt-app-server.git)
 
 ### Team Members
-
-- **Do Xuan Gia Bao** (s3932184) - Lead Developer
-  - School Email: [s3932184@rmit.edu.vn](mailto:s3932184@rmit.edu.vn)
-  - Personal Email: [giabaodoxuan0504@gmail.com](mailto:giabaodoxuan0504@gmail.com)
-- **Le Xuan Loc** (s3955317) - Developer
+- **Le Xuan Loc** (s3955317) - Lead Developer
+  - Personal Email: [lexuanloc0501.work@gmail.com](mailto:lexuanloc0501.work@gmail.com)
+- **Do Xuan Gia Bao** (s3932184) - Developer
 - **Kim Minsung** (s3866724) - Developer
 - **Do Nhat Thanh** (s3977947) - Developer
 - **Han Yeeun** (s3912055) - Developer
